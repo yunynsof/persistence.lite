@@ -1,0 +1,11 @@
+hn\com\tigo\josm\persistence\core\SessionBase.class
+hn\com\tigo\josm\persistence\core\ServiceSessionEJBLocal.class
+hn\com\tigo\josm\persistence\core\ServiceSessionEJB.class
+hn\com\tigo\josm\persistence\exception\PersistenceError.class
+hn\com\tigo\josm\persistence\core\SessionContainer.class
+hn\com\tigo\josm\persistence\exception\PersistenceException.class
+hn\com\tigo\josm\persistence\util\PersistenceConstants.class
+hn\com\tigo\josm\persistence\util\SessionUtil.class
+hn\com\tigo\josm\persistence\core\EntityBase.class
+hn\com\tigo\josm\persistence\core\Entity.class
+hn\com\tigo\josm\persistence\core\ServiceSessionEJBRemote.class
